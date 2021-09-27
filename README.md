@@ -1,7 +1,7 @@
 CS50
 ========
 
-Hello, world! This is CS50's Introduction to Computer Science Solutions.
+Hello, world! This is My CS50's Introduction to Computer Science Solutions.
 
 Features
 --------
